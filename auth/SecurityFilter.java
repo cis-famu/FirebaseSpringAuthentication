@@ -1,6 +1,3 @@
-package com.vac.blog.auth;
-
-
 import com.google.api.core.ApiFuture;
 import com.google.cloud.firestore.DocumentReference;
 import com.google.cloud.firestore.Firestore;
@@ -10,12 +7,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
 import com.google.firebase.auth.FirebaseToken;
 import com.google.firebase.cloud.FirestoreClient;
-import com.vac.blog.auth.models.Credentials;
-import com.vac.blog.auth.models.SecurityProperties;
-import com.vac.blog.auth.services.SecurityService;
-import com.vac.blog.auth.models.FirebaseUser;
-import com.vac.blog.auth.services.CookieUtils;
-import com.vac.blog.models.User;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 
