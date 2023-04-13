@@ -1,4 +1,3 @@
-package com.vac.blog.auth.models;
 
 import com.google.firebase.auth.FirebaseToken;
 import lombok.AllArgsConstructor;
