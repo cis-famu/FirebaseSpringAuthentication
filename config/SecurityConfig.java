@@ -1,8 +1,4 @@
-package com.vac.blog.config;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.vac.blog.auth.SecurityFilter;
-import com.vac.blog.auth.models.SecurityProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
