@@ -1,5 +1,3 @@
-package com.vac.blog.auth.models;
-
 import lombok.Data;
 
 @Data
