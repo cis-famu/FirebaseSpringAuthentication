@@ -1,5 +1,3 @@
-package com.vac.blog.auth.models;
-
 import com.vac.blog.models.User;
 import lombok.Data;
 
