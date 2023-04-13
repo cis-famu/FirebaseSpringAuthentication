@@ -1,8 +1,3 @@
-package com.vac.blog.auth.services;
-
-import com.vac.blog.auth.models.Credentials;
-import com.vac.blog.auth.models.FirebaseUser;
-import com.vac.blog.auth.models.SecurityProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.security.core.context.SecurityContext;
